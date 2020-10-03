@@ -18,5 +18,5 @@ Please paste the below url in your browser to know rest API http://localhost:808
 
 To check database tables use the below url (no password used) http://localhost:8081/h2-console
 
-Postman tool is suggested to test this appliation
+Postman tool is suggested to test this application
 
